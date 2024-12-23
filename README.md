@@ -132,6 +132,7 @@ community/)
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 - [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
+- [GoCodeo](https://marketplace.visualstudio.com/items?itemName=GoCodeo.gocodeo) The AI Coding & Testing Agent within your IDE.
 - [Kiro](https://www.kiro.io/) GitHub app that is your PR coach: review reminder and reviewer selection.
 - [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 - [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
